@@ -1,0 +1,22 @@
+[
+  {
+    "FuncionariosId": 1,
+    "Nome": "Jared",
+    "Local": "Australia"
+  },
+  {
+    "FuncionariosId": 2,
+    "Nome": "Nikita",
+    "Local": "India"
+  },
+  {
+    "FuncionariosId": 3,
+    "Nome": "Tom",
+    "Local": "Germany"
+  },
+  {
+    "FuncionariosId": 4,
+    "Nome": "Jake",
+    "Local": "United States"
+  }
+]
